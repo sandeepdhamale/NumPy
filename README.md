@@ -41,3 +41,6 @@
       * Array with Array
       * Array with Scalars
       * Universal Array Functions
+
+* [04.Numpy Exercise](https://github.com/sujitdhamale/numpy/blob/master/04.Numpy%20Exercise%20.ipynb)
+
